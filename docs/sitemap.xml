@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>https://hopher.github.io/golang-tutorial/cn/sitemap.xml</loc>
+		
+	   	<lastmod>2019-04-14T18:47:00+08:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://hopher.github.io/golang-tutorial/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>
