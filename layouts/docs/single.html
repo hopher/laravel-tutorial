@@ -1,0 +1,9 @@
+{{ define "main" }}
+<article class="github-markdown">
+  {{- .Content -}}
+</article>
+{{ end }}
+
+{{ define "toc" }}
+  {{ partial "docs/toc" . }}
+{{ end }}
