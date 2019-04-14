@@ -1,7 +1,7 @@
 # hugo server --themesDir ... --baseURL=http://0.0.0.0:1313/example
 
-baseURL: https://hopher.github.io/golang-tutorial/
-title: Golang 教程
+baseURL: https://hopher.github.io/laravel-tutorial/
+title: Laravel 教程
 theme: book
 disableKinds: ["taxonomy", "taxonomyTerm"]
 # themesDir: ../..
