@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Golang 教程</title>
-    <link>https://hopher.github.io/golang-tutorial/en/</link>
-    <description>Recent content on Golang 教程</description>
+    <title>Laravel 教程</title>
+    <link>https://hopher.github.io/laravel-tutorial/en/</link>
+    <description>Recent content on Laravel 教程</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	<atom:link href="https://hopher.github.io/golang-tutorial/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hopher.github.io/laravel-tutorial/en/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

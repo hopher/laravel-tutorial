@@ -3,17 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://hopher.github.io/golang-tutorial/en/</loc>
+    <loc>https://hopher.github.io/laravel-tutorial/en/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="cn"
-                href="https://hopher.github.io/golang-tutorial/"
+                href="https://hopher.github.io/laravel-tutorial/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hopher.github.io/golang-tutorial/en/"
+                href="https://hopher.github.io/laravel-tutorial/en/"
                 />
   </url>
   
